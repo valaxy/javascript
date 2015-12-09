@@ -15,3 +15,11 @@
   - 构建javascript
   - 构建html
   - 构建jade
+- 存储
+  - Cookie
+  - LocalStorage
+  - IndexedDB
+  - WebSQL
+- 性能优化
+  - 参考文章:
+    - http://www.alloyteam.com/2012/11/performance-writing-efficient-javascript/
